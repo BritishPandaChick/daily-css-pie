@@ -1,4 +1,4 @@
-# Daily CSS Images - Cheesecake
+# Daily CSS Images - Pie
 Daily CSS Images Day 15 prompt. This is a pie made with HTML & CSS.
 
 ## Instructions
